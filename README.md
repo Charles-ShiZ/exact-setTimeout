@@ -1,3 +1,3 @@
-# extra-settimeout
+# exact-settimeout
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/extra-settimeout)
